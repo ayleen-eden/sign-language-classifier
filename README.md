@@ -19,7 +19,9 @@ Takes a $128 \times 128$ grayscale image of a hand gesture and predicts the corr
 
 ## Tech
 
-Python, PyTorch, OpenCV
+- Python
+- PyTorch
+- OpenCV
 
 ## Result
 
