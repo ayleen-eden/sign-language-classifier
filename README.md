@@ -4,6 +4,8 @@ A CNN built with PyTorch that classifies static hand gestures into 36 classes (d
 
 **Result:** 88.07% accuracy on the held-out test set.
 
+> Dataset not included due to size.
+
 ## What it does
 
 Takes a $128 \times 128$ grayscale image of a hand gesture and predicts the corresponding digit or letter. The dataset (9,680 images, class-imbalanced) was split 70/15/15 into train/val/test.
