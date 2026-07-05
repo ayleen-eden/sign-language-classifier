@@ -1,6 +1,7 @@
 # Sign Language CNN Classifier
 
-*(Image placeholder)*
+<img width="400" height="400" src="https://github.com/user-attachments/assets/37ab9116-f8cf-4f22-a96c-7dc9837d278f" />
+<img width="400" height="400" src="https://github.com/user-attachments/assets/2a62a3e2-12a7-4362-9407-08637f533ebd" />
 
 A Convolutional Neural Network built with PyTorch that translates static hand gestures into text. Built for the *Machine Learning* course (SS 2026) at the University of Innsbruck. 
 
